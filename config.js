@@ -241,7 +241,7 @@ global.rpg = {
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WEBSITE APIKEY ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.zenzkey = 'b8040941f7'
-global.lolkey = 'SGWN'
+global.lolkey = '0e92f5f80a57f22bc0dfeb2a'
 global.lann = 'shendy' 
 global.rose = 'Rs-Danil_Elistz'
   //'292e8d36a318282908bd07f7' // PUNYA WAHID 357d3c85079c4e0818731e6b
@@ -283,7 +283,7 @@ global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'HIRO',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'e54205a4ca2caa368cc067bb',// 8e66d0934cf741bfd2182c16
+  'https://api.lolhuman.xyz': '0e92f5f80a57f22bc0dfeb2a',// 8e66d0934cf741bfd2182c16
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
